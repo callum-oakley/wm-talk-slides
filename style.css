@@ -1,0 +1,44 @@
+body {
+  color: #C0C5CE;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3 {
+  font-style: normal;
+  font-weight: inherit;
+}
+
+h1 {
+  text-align: center;
+}
+
+.remark-code {
+  font-size: inherit;
+}
+
+.remark-slide-content {
+  background-color: #1B2B34;
+  vertical-align: middle;
+}
+
+.remark-slide-scaler {
+  box-shadow: unset;
+}
+
+.remark-container {
+  background-color: #1B2B34;
+}
+
+a {
+  color: #6699CC;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+  font-style: italic;
+}
