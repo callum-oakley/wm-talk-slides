@@ -2,15 +2,21 @@ body {
   color: #C0C5CE;
   line-height: 1.5;
   text-rendering: optimizeLegibility;
+  font-variant-numeric: oldstyle-nums;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-style: normal;
   font-weight: inherit;
+  font-family: serif;
 }
 
 h1 {
   text-align: center;
+}
+
+h4 {
+  font-variant: small-caps;
 }
 
 .remark-code {

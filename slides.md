@@ -1,40 +1,40 @@
-# overthinking window management for fun and profit
+# Overthinking window management for fun &amp; profit
 
 ---
 
-## getting focussed
+## Getting focussed
 
-strategies for cycling through windows:
+Strategies for cycling through windows
 
-- cycle through windows in an arbitrary order (terrible idea)
+- Cycle through windows in an arbitrary order (terrible idea)
 
-- cycle through windows in most recently used order
+- Cycle through windows in most recently used order
 
-more direct strategies:
+More direct strategies
 
-- cardinal focus
+- Cardinal focus
 
-- you could also use the mouse I guess...
+- You could also use the mouse I guess&hellip;
 
 ---
 
-## floating or tiling?
+## Floating or tiling?
 
-floating:
+Floating
 
-- manual window placement
+- Manual window placement
 
-- each window exists independently of all the others, overlapping / stacking
+- Each window exists independently of all the others, overlapping / stacking
 
-- flexibility and least surprise
+- Flexibility and least surprise
 
-tiling:
+Tiling
 
-- automatically arrange windows in a grid
+- Automatically arrange windows in a grid
 
-- efficent use of screenspace and keypresses
+- Efficent use of screenspace and keypresses
 
-- potentially less flexible, learning curve
+- Potentially less flexible, learning curve
 
 ---
 
@@ -42,26 +42,53 @@ tiling:
 
 ---
 
-## getting organised
+## Getting organised
 
-- partitioning windows in to small related sets
+- The desktop metaphor
 
-- apply focus strategies above to these sets as "meta windows"
+- Partitioning windows in to small related sets (desktops)
 
-- desktop metaphor
-
----
-
-## stretching the metaphor
-
-- groups
-
-- views
+- Apply the same strategies described for focus to change the active desktop
 
 ---
 
-## in defense of "wasted space"
+## Stretching the desktop metaphor
+
+Groups
+
+- a window belongs to exactly one group
+
+- any number of groups can be visible at once
+
+Tags
+
+- a window belongs to any number of tags
+
+- any number of tags can be visible at once
 
 ---
 
-## why bother?
+## Views
+
+- a window belongs to at least one view
+
+- precisely one view is visible at once
+
+- position and location of windows in different views are independent
+
+---
+
+## In defense of &ldquo;wasted space&rdquo;
+
+- Helps with focus
+
+- Prevents borders from getting lost in the noise
+
+- *a e s t h e t i c s*
+
+---
+class: center, middle
+
+# *fgwm* demo
+
+[github.com/hot-leaf-juice/fgwm](https://github.com/hot-leaf-juice/fgwm)
