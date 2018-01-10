@@ -87,7 +87,7 @@ Tags
 - *a e s t h e t i c s*
 
 ---
-class: center, middle
+class: center
 
 # *fgwm* demo
 

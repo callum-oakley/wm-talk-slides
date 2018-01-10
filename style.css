@@ -2,7 +2,6 @@ body {
   color: #C0C5CE;
   line-height: 1.5;
   text-rendering: optimizeLegibility;
-  font-variant-numeric: oldstyle-nums;
 }
 
 h1, h2, h3, h4 {
@@ -30,6 +29,11 @@ h4 {
 
 .remark-slide-scaler {
   box-shadow: unset;
+}
+
+.remark-slide-number {
+  color: #65737E;
+  opacity: unset;
 }
 
 .remark-container {
