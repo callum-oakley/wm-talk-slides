@@ -26,11 +26,11 @@ floating:
 
 - each window exists independently of all the others, overlapping / stacking
 
-- flexibility and least surprise is king
+- flexibility and least surprise
 
 tiling:
 
-- arrange windows in a grid
+- automatically arrange windows in a grid
 
 - efficent use of screenspace and keypresses
 
@@ -43,6 +43,20 @@ tiling:
 ---
 
 ## getting organised
+
+- partitioning windows in to small related sets
+
+- apply focus strategies above to these sets as "meta windows"
+
+- desktop metaphor
+
+---
+
+## stretching the metaphor
+
+- groups
+
+- views
 
 ---
 
