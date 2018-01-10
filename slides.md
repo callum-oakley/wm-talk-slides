@@ -20,6 +20,26 @@ more direct strategies:
 
 ## floating or tiling?
 
+floating:
+
+- manual window placement
+
+- each window exists independently of all the others, overlapping / stacking
+
+- flexibility and least surprise is king
+
+tiling:
+
+- arrange windows in a grid
+
+- efficent use of screenspace and keypresses
+
+- potentially less flexible, learning curve
+
+---
+
+# `why_not_both.gif`
+
 ---
 
 ## getting organised
