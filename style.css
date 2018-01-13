@@ -52,3 +52,17 @@ a:hover {
 blockquote {
   font-style: italic;
 }
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li:before {
+  content: "\2022";
+  margin: 0 1em;
+}
+
+li {
+  padding: 0.3em 0;
+}
